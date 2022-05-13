@@ -1,3 +1,8 @@
 ^thirdclass\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^manuscript$
+^notes\.R$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
